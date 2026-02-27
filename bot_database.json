@@ -1,0 +1,46 @@
+{
+    "users": {
+        "7368378269": {
+            "balance": 0.13,
+            "referrals": 0,
+            "referred_by": null,
+            "last_bonus": 1772164480.2814488,
+            "withdrawals": []
+        },
+        "5810613583": {
+            "balance": 0.32,
+            "referrals": 1,
+            "referred_by": null,
+            "last_bonus": 1772172973.2157583,
+            "withdrawals": [],
+            "user_number": 2
+        },
+        "8559007428": {
+            "balance": 0.4,
+            "referrals": 2,
+            "referred_by": 5810613583,
+            "last_bonus": 0,
+            "withdrawals": [],
+            "user_number": 3,
+            "referral_rewarded": true
+        },
+        "8401844802": {
+            "balance": 0.0,
+            "referrals": 0,
+            "referred_by": 8559007428,
+            "last_bonus": 0,
+            "withdrawals": [],
+            "user_number": 4,
+            "referral_rewarded": true
+        },
+        "8455272617": {
+            "balance": 0.0,
+            "referrals": 0,
+            "referred_by": 8559007428,
+            "last_bonus": 0,
+            "withdrawals": [],
+            "user_number": 5,
+            "referral_rewarded": true
+        }
+    }
+}
